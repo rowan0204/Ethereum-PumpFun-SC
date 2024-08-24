@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# It's smart contract part for ethereum pumpfun
+This is repository for smart contract of Pump.fun. As a smart contact part of Pump.fun, it involves add/remove virtual LP and create pool. It's the fork of Pump.fun and have some addtional functionalities.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+### If you face difficulty or issues when you use it, feel free to reach out
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+### My contacts
+https://t.me/chaintoshi
+https://twitter.com/billtovitt
