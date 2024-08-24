@@ -5,4 +5,5 @@ This is repository for smart contract of Pump.fun. As a smart contact part of Pu
 
 ### My contacts
 https://t.me/chaintoshi
+
 https://twitter.com/billtovitt
